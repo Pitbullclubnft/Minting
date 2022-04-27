@@ -1,7 +1,7 @@
 const contractAddress = "0x0eCCFC43a52283C75FE5778cF44ce544C3826638"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the Pit Bull Club project!!";
+const welcome_h1 = "Welcome to the Pit Bull Club project!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'The PBC collection is a decentralized, open-source project with 10.000 unique coded NFt´s with each layer hand drawn';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
