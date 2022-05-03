@@ -1,0 +1,9 @@
+{
+  "response": "OK",
+  "chain": "polygon",
+  "transaction_hash": "0xc2da10b8cb46890f2014a378d7862a62ca950cd70151bdab6dae7f8131273af8",
+  "transaction_external_url": "https://polygonscan.com/tx/0xc2da10b8cb46890f2014a378d7862a62ca950cd70151bdab6dae7f8131273af8",
+  "owner_address": "0xdc58B04236b742eB88BBD68a4E7A64A339F27Cc3",
+  "name": "Pit Bull Club",
+  "symbol": "PBC"
+}
