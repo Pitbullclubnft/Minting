@@ -50,7 +50,7 @@ const CHAIN = 'polygon'; // only rinkeby or polygon
 
 // REQUIRED CONTRACT DETAILS THAT CANNOT BE UPDATED LATER!
 const CONTRACT_NAME = 'Pit Bull Club';
-const CONTRACT_SYMBOL = 'PBC';
+const CONTRACT_SYMBOL = 'PB';
 const METADATA_UPDATABLE = true; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xdc58B04236b742eB88BBD68a4E7A64A339F27Cc3';
 const TREASURY_ADDRESS = '0xdc58B04236b742eB88BBD68a4E7A64A339F27Cc3';
